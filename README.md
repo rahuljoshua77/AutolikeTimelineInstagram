@@ -1,7 +1,8 @@
 # AutolikeTimelineInstagram
 An Auto Like Timeline Instagram Using Selenium Python
+![image](https://user-images.githubusercontent.com/73378179/142645748-81fe3996-bbcb-4027-a1d2-07b8cb33e2ad.png)
 
-#Usage:
+# Usage:
 
     1. Install Python 3
     
